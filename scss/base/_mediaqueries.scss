@@ -1,0 +1,67 @@
+/*** MEDIA ZAPATILLAS ***/
+
+@media screen and (max-width:700px) {
+.hero-zapatillas {
+    h1 {
+        font-size: 30px;
+        padding: 2.5px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
+}
+
+@media screen and (max-width:480px) {
+.hero-zapatillas {
+    h1 {
+        font-size: 20px;
+        padding: 1px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+}
+}
+
+@media screen and (max-width:425px) {
+    .grid-container-zapatillas {
+        display: none;
+    }
+}
+
+
+
+/*** MEDIAQ MEDIAS ***/
+
+@media screen and (max-width:665px) {
+    .hero-medias{ 
+        h1 {
+        font-size: 30px;
+        padding: 2.5px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+}
+}
+
+@media screen and (max-width: 520px) {
+
+    .hero-medias { 
+        h1 {
+        font-size: 20px;
+        padding: 1px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+}
+}
+
+
+

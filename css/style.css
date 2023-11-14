@@ -14,6 +14,7 @@
 
 .barra {
     background-color: hsl(180, 31%, 37%);
+    position: sticky;
 }
 
 
@@ -56,7 +57,7 @@
     padding: 20px;
 }
 
-.productos div a {
+.productos .producto-contenedor div a {
     text-decoration: none;
     color: white;
     background-color: black;
@@ -81,7 +82,7 @@
     background-color: #000000bd;
 }
 
-.productos div h3 {
+.productos .producto-contenedor div h3 {
     margin: 8px 0 8px 0;
     color: white;
 }
